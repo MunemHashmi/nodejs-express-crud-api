@@ -37,11 +37,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### GET /users
 
-Returns a list of all users in the JavaScript array.
+Returns a list of all users.
 
 ### POST /users
 
-Creates a new user in the JavaScript array.
+Creates a new user.
 
 ### GET /users/:id
 
@@ -49,7 +49,7 @@ Returns the details of a specific user by their ID.
 
 ### DELETE /users/:id
 
-Deletes a specific user from the JavaScript array by their ID.
+Deletes a specific user by their ID.
 
 ### PATCH /users/:id
 
