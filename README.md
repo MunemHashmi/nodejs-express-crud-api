@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/yourusername/nodejs-express-crud-api.git
+  git clone https://github.com/MunemHashmi/nodejs-express-crud-api.git
 ```
 2. Install dependencies
 
